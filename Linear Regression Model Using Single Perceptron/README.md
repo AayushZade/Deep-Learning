@@ -64,6 +64,13 @@ The notebook provides:
 - A fitted linear regression line visualized over the data points.
 - Evaluation metrics such as MSE and R-squared to judge the performance of the model.
 
+## Requirement file fetching:
+
+- The requirement.txt file is provided in this project. If you want to access this go through the following command:
+```bash
+pip freeze > requirements.txt
+```
+
 ## Contributing
 
 Contributions are welcome! If you'd like to improve or extend the project, feel free to fork the repository and open a pull request.
